@@ -1,0 +1,17 @@
+[2017/10/11 04:06:28] Executing command: feeder -d 3
+2017-10-11 04:06:28.9619  Starting
+2017-10-11 04:06:28.9620  7.7.0
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2017-10-11 04:06:28.9839  read 13 platforms, 1 apps, 3 app_versions, 0 assignments
+2017-10-11 04:06:28.9839  Using 100 job slots
+2017-10-11 05:00:09.8753  Found trigger file reread_db; re-scanning database tables.
+have apps for CPU: yes
+have apps for NVIDIA GPU: no
+have apps for AMD/ATI GPU: no
+have apps for Intel GPU: no
+have apps for Miner ASIC: no
+2017-10-11 05:00:09.8828  Done re-scanning: trigger file removed.
