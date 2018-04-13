@@ -1,5 +1,5 @@
 # FedLearn
-FedLearn implements a BOINC Docker server to train federated learning algorithm across distributed voluntary computing resources. This project was developed a project work for the course "Parallel and 
+FedLearn implements a BOINC Docker server to train federated learning algorithm across distributed voluntary computing resources. This project was developed as a project work for the course "Parallel and 
 Distributed Computing" taught at VIT University.
 
 
